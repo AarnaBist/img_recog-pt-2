@@ -1,0 +1,21 @@
+body{
+    background: rgb(208, 229, 235);
+}
+
+.heading{
+    width:80%;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 360px;
+    height:300px;
+}
+
+#result{
+    border: 2px dashed black;
+    width: 360px;
+    height:300px;
+}
